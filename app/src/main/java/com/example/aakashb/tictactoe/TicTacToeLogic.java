@@ -1,5 +1,7 @@
 package com.example.aakashb.tictactoe;
 
+import static com.example.aakashb.tictactoe.TicTacToeLogic.TTTElement.*;
+
 /**
  * Created by aakashb on 7/24/17.
  */
